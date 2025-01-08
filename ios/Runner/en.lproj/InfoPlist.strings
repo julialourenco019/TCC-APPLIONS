@@ -1,0 +1,3 @@
+NSCameraUsageDescription = "The app requires some permissions to work properly.";
+NSPhotoLibraryUsageDescription = "The app requires some permissions to work properly.";
+PermissionGroupNotification = "The app requires some permissions to work properly.";

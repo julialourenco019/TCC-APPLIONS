@@ -1,0 +1,3 @@
+NSCameraUsageDescription = "O aplicativo requer algumas permissões para funcionar corretamente";
+NSPhotoLibraryUsageDescription = "O aplicativo requer algumas permissões para funcionar corretamente";
+PermissionGroupNotification = "O aplicativo requer algumas permissões para funcionar corretamente";
